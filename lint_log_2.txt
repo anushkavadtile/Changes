@@ -1,0 +1,21 @@
+
+> ambanax-platform@0.1.0 lint
+> eslint
+
+(node:7684) ESLintIgnoreWarning: The ".eslintignore" file is no longer supported. Switch to using the "ignores" property in "eslint.config.js": https://eslint.org/docs/latest/use/configure/migration-guide#ignoring-files
+(Use `node --trace-warnings ...` to show where the warning was created)
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+
+C:\Users\harshit\Desktop\amba\app\how-it-works\page.tsx
+  16:28  warning  'UserCheck' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\harshit\Desktop\amba\project\server.js
+  1:1   error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+  2:17  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+  3:14  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+  4:22  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+  5:32  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+  6:26  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+
+Γ£û 7 problems (6 errors, 1 warning)
+

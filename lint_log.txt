@@ -1,0 +1,25 @@
+
+> ambanax-platform@0.1.0 lint
+> eslint
+
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+
+C:\Users\harshit\Desktop\amba\app\how-it-works\page.tsx
+  16:28  warning  'UserCheck' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\harshit\Desktop\amba\components\chat-widget.tsx
+  154:71  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\harshit\Desktop\amba\components\sections\how-it-works.tsx
+  91:64  error  Parsing error: '...' expected
+
+C:\Users\harshit\Desktop\amba\project\server.js
+  1:1   error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+  2:17  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+  3:14  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+  4:22  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+  5:32  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+  6:26  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+
+Γ£û 9 problems (8 errors, 1 warning)
+
